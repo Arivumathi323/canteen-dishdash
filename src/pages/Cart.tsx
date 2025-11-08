@@ -111,7 +111,7 @@ export default function Cart() {
             {/* Bill Receipt */}
             <Card>
               <CardHeader className="text-center border-b">
-                <CardTitle className="text-2xl">Canteen Order Receipt</CardTitle>
+                <CardTitle className="text-2xl">Madras Campus Canteen</CardTitle>
                 <p className="text-sm text-muted-foreground mt-2">
                   {new Date().toLocaleString()}
                 </p>

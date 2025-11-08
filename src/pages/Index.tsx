@@ -26,7 +26,7 @@ export default function Index() {
           <div className="flex items-center justify-center gap-3 mb-4">
             <UtensilsCrossed className="h-12 w-12 text-accent" />
             <h1 className="text-5xl md:text-7xl font-bold">
-              Campus <span className="text-accent">Canteen</span>
+              Madras Campus <span className="text-accent">Canteen</span>
             </h1>
           </div>
           <p className="text-xl md:text-2xl mb-8 text-gray-200">
@@ -97,7 +97,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="bg-gradient-hero text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-lg font-semibold mb-2">Campus Canteen</p>
+          <p className="text-lg font-semibold mb-2">Madras Campus Canteen</p>
           <p className="text-sm opacity-90">Serving delicious meals to fuel your studies</p>
         </div>
       </footer>
